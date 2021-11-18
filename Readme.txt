@@ -1,0 +1,2 @@
+Based on Adam's Rambling work
+http://www.adambourg.com
