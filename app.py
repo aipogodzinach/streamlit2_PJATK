@@ -1,4 +1,9 @@
 # źródło danych [https://www.kaggle.com/c/titanic/](https://www.kaggle.com/c/titanic)
+import pathlib
+from pathlib import Path
+
+temp = pathlib.PosixPath
+pathlib.PosixPath = pathlib.WindowsPath
 
 import streamlit as st
 import pickle
