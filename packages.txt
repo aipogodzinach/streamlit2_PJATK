@@ -1,3 +1,0 @@
-python3-keras
-python3-sklearn
-pytho3n-matplotlib
