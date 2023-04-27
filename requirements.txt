@@ -2,4 +2,3 @@ keras
 sklearn
 matplotlib
 streamlit==1.10.0
--r https://raw.githubusercontent.com/snowflakedb/snowflake-connector-python/main/tested_requirements/requirements_39.reqs
