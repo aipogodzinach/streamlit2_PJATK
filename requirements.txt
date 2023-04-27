@@ -1,5 +1,4 @@
 keras
 sklearn
 matplotlib
-seaborn
-streamlit==1.4.0
+streamlit==0.85.0
